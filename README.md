@@ -1,4 +1,4 @@
-# Zarya Support Assistant
+# Chat Support Assistant
 
 A customer-support chatbot for a telecom, built with RAG (retrieval-augmented generation).
 It answers questions about plans, bills, roaming, devices and router problems from the
